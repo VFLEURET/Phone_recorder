@@ -8,7 +8,7 @@
 
 // include SPI, MP3 and SD libraries
 #include <SPI.h>
-#include "../lib/Adafruit_VS1053.h"
+#include <Adafruit_VS1053.h>
 #include <SD.h>
 
 // define the pins used
